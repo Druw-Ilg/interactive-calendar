@@ -59,6 +59,10 @@ A responsive single-page web application built with Next.js, TypeScript, Tailwin
 - No timezone handling; uses local browser time.
 - Event overlap styling is minimal.
 
+## Bonus features attempted
+
+- Attempted Dark Mode Toggle and Drag & Drop Mock, couldn't complete due to deadline (will definitely work on it)
+
 ## Getting Started
 
 First, run the development server:
